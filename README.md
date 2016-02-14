@@ -1,2 +1,3 @@
 # Hello-world
-Every step means a lot. Coding is about steps and every step counts.
+I love Swift 2, and would like to learn more about it.
+
